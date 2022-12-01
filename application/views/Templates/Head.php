@@ -17,4 +17,6 @@
     <link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,400;1,400&amp;display=swap" rel="stylesheet" />
     <!-- Core theme CSS (includes Bootstrap)-->
     <link href="<?= base_url('assets') ?>/css/styles.css" rel="stylesheet" />
+    <!-- Fontawesome 5 -->
+    <script src="https://kit.fontawesome.com/c5841f1965.js" crossorigin="anonymous"></script>
 </head>
